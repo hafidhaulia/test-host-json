@@ -1,0 +1,61 @@
+{
+  "request_code": 200,
+  "result_code": 4,
+  "product_list": [
+    {
+      "product_id": 1,
+      "product_name": "Akarku",
+      "product_tree_quantity": 1,
+      "product_image_black": "https://media.napon.id/img/akarku2.png",
+      "product_image_white": "https://media.napon.id/img/akarku.png",
+      "product_background": "https://napon.id/images/media/product/android/akarku.png",
+      "product_simulation": "https://napon.id/images/media/img/simulasi-akarku.jpg",
+      "product_description": "Nikmati menabung dari hal yang kecil. Tabung 1 pohon, anda mendukung go green.",
+      "product_price": 300000
+    },
+    {
+      "product_id": 2,
+      "product_name": "Batangku",
+      "product_tree_quantity": 10,
+      "product_image_black": "https://media.napon.id/img/batangku2.png",
+      "product_image_white": "https://media.napon.id/img/batangku.png",
+      "product_background": "https://napon.id/images/media/product/android/batangku.png",
+      "product_simulation": "https://napon.id/images/media/img/simulasi-batangku.jpg",
+      "product_description": "Menabung pohon memberikan dampak yang positif. Tabung 10 pohon, anda mendukung menanamkan pohon.",
+      "product_price": 3000000
+    },
+    {
+      "product_id": 3,
+      "product_name": "Rantingku",
+      "product_tree_quantity": 25,
+      "product_image_black": "https://media.napon.id/img/rantingku2.png",
+      "product_image_white": "https://media.napon.id/img/rantingku.png",
+      "product_background": "https://napon.id/images/media/product/android/rantingku.png",
+      "product_simulation": "https://napon.id/images/media/img/simulasi-rantingku.jpg",
+      "product_description": "Menabung pohon cara yang paling tepat untuk selamatkan bumi. Tabung 25 pohon, anda mendukung pertumbuhan pohon.",
+      "product_price": 7500000
+    },
+    {
+      "product_id": 4,
+      "product_name": "Daunku",
+      "product_tree_quantity": 50,
+      "product_image_black": "https://media.napon.id/img/daunku2.png",
+      "product_image_white": "https://media.napon.id/img/daunku.png",
+      "product_background": "https://napon.id/images/media/product/android/daunku.png",
+      "product_simulation": "https://napon.id/images/media/img/simulasi-daunku.jpg",
+      "product_description": "Kesadaran menabung pohon memberikan banyak manfaat. Tabung 50 pohon, anda membantu meningkatkan kualitas udara (menyerap CO2).",
+      "product_price": 15000000
+    },
+    {
+      "product_id": 5,
+      "product_name": "Hutanku",
+      "product_tree_quantity": 100,
+      "product_image_black": "https://media.napon.id/img/hutanku2.png",
+      "product_image_white": "https://media.napon.id/img/hutanku.png",
+      "product_background": "https://napon.id/images/media/product/android/hutanku.png",
+      "product_simulation": "https://napon.id/images/media/img/simulasi-hutanku.jpg",
+      "product_description": "Menabung pohon menjadi nilai investasi yang menguntungkan. Tabung 100 pohon, anda telah menyelamatkan bumi dan memberikan dampak terhadap lingkungan sekitar.",
+      "product_price": 30000000
+    }
+  ]
+}

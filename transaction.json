@@ -11,7 +11,8 @@
       },
       "transaction_status": 2,
       "transaction_number": "NAPON-005",
-      "transaction_total_payment": 30000000
+      "transaction_total_payment": 30000000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "324rxAujHsPocpa6",
@@ -22,7 +23,8 @@
       },
       "transaction_status": 1,
       "transaction_number": "NAPON-005",
-      "transaction_total_payment": 30000000
+      "transaction_total_payment": 30000000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "uWXptuUguaQTRUau",
@@ -33,7 +35,8 @@
       },
       "transaction_status": 3,
       "transaction_number": "NAPON-004",
-      "transaction_total_payment": 15000000
+      "transaction_total_payment": 15000000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "cgQVjXsl6AauLpx0",
@@ -44,7 +47,8 @@
       },
       "transaction_status": 1,
       "transaction_number": "NAPON-004",
-      "transaction_total_payment": 15000000
+      "transaction_total_payment": 15000000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "CKeAqvSkGiNAyJEz",
@@ -55,7 +59,8 @@
       },
       "transaction_status": 3,
       "transaction_number": "NAPON-003",
-      "transaction_total_payment": 7500000
+      "transaction_total_payment": 7500000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "yZ8o01dBmyVQ2cYe",
@@ -66,7 +71,8 @@
       },
       "transaction_status": 1,
       "transaction_number": "NAPON-003",
-      "transaction_total_payment": 7500000
+      "transaction_total_payment": 7500000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "6oWYo3BClF7vckfi",
@@ -77,7 +83,8 @@
       },
       "transaction_status": 3,
       "transaction_number": "NAPON-002",
-      "transaction_total_payment": 3000000
+      "transaction_total_payment": 3000000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "d1hKg4qY6k5P9esF",
@@ -88,7 +95,8 @@
       },
       "transaction_status": 1,
       "transaction_number": "NAPON-002",
-      "transaction_total_payment": 3000000
+      "transaction_total_payment": 3000000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "WqF0Qeu5ayVdbvjD",
@@ -99,7 +107,8 @@
       },
       "transaction_status": 3,
       "transaction_number": "NAPON-001",
-      "transaction_total_payment": 300000
+      "transaction_total_payment": 300000,
+      "transaction_va_number": 1234567890
     },
     {
       "transaction_id": "sk6GY6d5bmKgg2f1",
@@ -110,7 +119,8 @@
       },
       "transaction_status": 1,
       "transaction_number": "NAPON-001",
-      "transaction_total_payment": 300000
+      "transaction_total_payment": 300000,
+      "transaction_va_number": 1234567890
     }
   ]
 }
